@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome! The purpose of this repository is to serve as stockpile of statistical methods, modeling techniques, and data science tools. The content itself includes everything from educational vignettes on specific topics, to tailored functions and modeling pipelines built to enhance and optimize analyses, to notes and code from various data science conferences, to general data science utilities. This is and will remain a work in progress, and I welcome all contributions and constructive criticism. If you have a suggestion or request, please [make use of the "Issues" tab](https://github.com/pmaji/data-science-toolkit/issues) and I will respond expeditiously. 
+Welcome! The purpose of this repository is to serve as stockpile of statistical methods, modeling techniques, and data science tools. The content itself includes everything from educational vignettes on specific topics, to tailored functions and modeling pipelines built to enhance and optimize analyses, to notes and code from various data science conferences, to general data science utilities. This will remain a work in progress, and I welcome all contributions and constructive criticism. If you have a suggestion or request, please [use the "Issues" tab](https://github.com/pmaji/data-science-toolkit/issues) and I will respond expeditiously! 
 
 ## Table of Contents
 
@@ -35,5 +35,5 @@ Welcome! The purpose of this repository is to serve as stockpile of statistical 
 
 ## Contribution Info
 
-All are welcome and encouraged to contribute to this repository. My only request is that you include a detailed description of your contribution, that your code be thoroughly-commented, and that you test your contribution locally with the most recent version of the Master branch integrated prior to submitting the PR.
+All are welcome and encouraged to contribute to this repository. My only request is that you include a detailed description of your contribution, that your code be thoroughly-commented, and that you test your contribution locally with the most recent version of the master branch integrated prior to submitting the PR.
 
